@@ -1,3 +1,11 @@
+# info
+MERN stack used to implement the project <br/>
+login and sign up authorization created <br/>
+movie data, users and movie lists of each users stored in mongodb <br/>
+user can view their created list
+
+
+<br/><br/><br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
