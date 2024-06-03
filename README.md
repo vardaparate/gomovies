@@ -2,7 +2,10 @@
 MERN stack used to implement the project <br/>
 login and sign up authorization created <br/>
 movie data, users and movie lists of each users stored in mongodb <br/>
-user can view their created list
+user can view their created list <br/>
+screenshots of the app also uploaded <br/>
+jwt and bcrypt used for password and user authentication <br/>
+database - gomovies; collections - movieCategory, movieItems, users, orders <br/>
 
 
 <br/><br/><br/>
